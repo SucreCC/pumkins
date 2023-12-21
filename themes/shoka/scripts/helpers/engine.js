@@ -28,7 +28,9 @@ const randomBG = function(count = 1, image_server = null, image_list = []) {
     if (img.startsWith('//') || img.startsWith('http')) {
       return img
     } else {
-      return 'https://tva'+randomServer+'.sinaimg.cn/'+size+'/'+img
+      console.log(img)
+      return img
+      // return 'https://tva'+randomServer+'.sinaimg.cn/'+size+'/'+img
     }
   }
 
