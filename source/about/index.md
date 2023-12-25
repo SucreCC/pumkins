@@ -1,14 +1,14 @@
 ---
-title: About Myself
+title: About Us
 keywords: About
-description: About me
+description: About Us
 copyright: false
 ---
 
 # Website Information
-- Site Name： Sucre
-- My Name： Sucre
-- Website Url： 
+- Site Name： WePumkins
+- My Name： Sucre & Cindy
+- Website Url：https://pumkins.us
 - Avatar： ![Sucre](/images/avatar.jpg){height="100" width="100"}
 - Description： Programming Notes
 

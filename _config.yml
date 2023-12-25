@@ -7,13 +7,13 @@ title: Welcome
 subtitle: ''
 description: 'Welcome to my blog'
 keywords:
-author: Sucre
+author: Pumkins
 language: en
 timezone: 'Europe/Dublin'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://pumkins.us
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -67,7 +67,9 @@ index_generator:
 
 # Category & Tag
 default_category: uncategorized
-category_map:
+category_map: # edit for Theme.shoka
+  Life: travel/food
+  Programming: programming
 tag_map:
 
 # Metadata elements
