@@ -11,11 +11,11 @@ tags:
 - Interview
 ---
 
-A long-term study plan for interview,  [based on Tech Interview Handbook](https://www.techinterviewhandbook.org/).
-
-
 
 <!-- more -->
+
+A long-term study plan for interview,  [based on Tech Interview Handbook](https://www.techinterviewhandbook.org/).
+
 
 # Plan for Datastructures and Algorithms
 

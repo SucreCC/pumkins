@@ -135,13 +135,13 @@ widgets:
 
 footer:
   # Specify the date when the site was setup. If not defined, current year will be used.
-  since: 2010
+  since: 2023
   icon:
     name: sakura rotate
     # Change the color of icon, using Hex Code.
     color: "#ffc0cb"
   # Dependencies: https://github.com/theme-next/hexo-symbols-count-time
-  count: false
+  count: true
   powered: true
 
 post:
@@ -303,27 +303,6 @@ vendors:
     chart: npm/frappe-charts@1.5.0/dist/frappe-charts.min.iife.min.js
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # edit for Theme.shoka
 autoprefixer:
   exclude:
@@ -385,20 +364,21 @@ minify:
     exclude:
       - '**/*.min.js'
 
-# algolia:
-#   appId:
-#   apiKey:
-#   adminApiKey:
-#   chunkSize: 5000
-#   indexName:
-#   fields:
-#     - title #必须配置
-#     - path #必须配置
-#     - categories #推荐配置
-#     - content:strip:truncate,0,4000
-#     - gallery
-#     - photos
-#     - tags
+algolia:
+  appId: 0389VRCITI
+  apiKey: fe83823ee4adc42d19786f4be40372a3
+  adminApiKey: 314d08c0ee63cf1e9ee0073354c8f61b
+  chunkSize: 5000
+  indexName: pumkins
+  fields:
+    - title #必须配置
+    - path #必须配置
+    - categories #推荐配置
+    - content:strip:truncate,0,4000
+    - gallery
+    - photos
+    - tags
+
 
 feed:
   limit: 20
