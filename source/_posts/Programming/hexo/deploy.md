@@ -5,7 +5,8 @@ date: 2023-12-25 20:02:00
 layout: categories
 categories:
 - [Blog]
-tags: 
+tags:
+- Sucre
 - Hexo
 - Configuration
 - deploy
@@ -47,7 +48,6 @@ Website --> Add site --> fill Domain name, if you need SSL you can also choose "
 
 ``` Bash
 #git
-yum install git
 yum install git
 
 # node.js
