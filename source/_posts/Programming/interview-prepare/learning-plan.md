@@ -25,9 +25,9 @@ According to the Breadth-First preparation, I will roughly go through all the to
 | Topic | Priority | Finished Date |
 | :-: | :-: | :-: |
 | [Array](https://www.techinterviewhandbook.org/algorithms/array/) | High | 2024-1-3 |
-| [String](https://www.techinterviewhandbook.org/algorithms/string/) | High | 2024-1-- |
-| [Hash table](https://www.techinterviewhandbook.org/algorithms/hash-table/) | Mid | 2024-1-- |
-| [Recursion](https://www.techinterviewhandbook.org/algorithms/recursion/) | Mid | 2024-1-- |
+| [String](https://www.techinterviewhandbook.org/algorithms/string/) | High | 2024-1-4 |
+| [Hash table](https://www.techinterviewhandbook.org/algorithms/hash-table/) | Mid | 2024-1-4 |
+| [Recursion](https://www.techinterviewhandbook.org/algorithms/recursion/) | Mid | 2024-1-4 |
 | [Sorting and searching](https://www.techinterviewhandbook.org/algorithms/sorting-searching/) | High | 2024-1-- |
 | [Matrix](https://www.techinterviewhandbook.org/algorithms/matrix/) | High | 2024-1-- |
 | [Linked List](https://www.techinterviewhandbook.org/algorithms/linked-list/) | Mid | 2024-1-- |
