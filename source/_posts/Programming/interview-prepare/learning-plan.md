@@ -28,8 +28,8 @@ According to the Breadth-First preparation, I will roughly go through all the to
 | [String](https://www.techinterviewhandbook.org/algorithms/string/) | High | 2024-1-4 |
 | [Hash table](https://www.techinterviewhandbook.org/algorithms/hash-table/) | Mid | 2024-1-4 |
 | [Recursion](https://www.techinterviewhandbook.org/algorithms/recursion/) | Mid | 2024-1-4 |
-| [Sorting and searching](https://www.techinterviewhandbook.org/algorithms/sorting-searching/) | High | 2024-1-- |
-| [Matrix](https://www.techinterviewhandbook.org/algorithms/matrix/) | High | 2024-1-- |
+| [Sorting and searching](https://www.techinterviewhandbook.org/algorithms/sorting-searching/) | High | 2024-1-5 |
+| [Matrix](https://www.techinterviewhandbook.org/algorithms/matrix/) | High | 2024-1-5 |
 | [Linked List](https://www.techinterviewhandbook.org/algorithms/linked-list/) | Mid | 2024-1-- |
 | [Queue](https://www.techinterviewhandbook.org/algorithms/queue/) | Mid | 2024-1-- |
 | [Stack](https://www.techinterviewhandbook.org/algorithms/stack/) | Mid | 2024-1-- |
