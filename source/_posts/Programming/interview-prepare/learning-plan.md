@@ -34,10 +34,10 @@ According to the Breadth-First preparation, I will roughly go through all the to
 | [Queue](https://www.techinterviewhandbook.org/algorithms/queue/) | Mid | 2024-1-6 |
 | [Stack](https://www.techinterviewhandbook.org/algorithms/stack/) | Mid | 2024-1-7 |
 | [Tree](https://www.techinterviewhandbook.org/algorithms/tree/) | High | 2024-1-7 |
-| [Graph](https://www.techinterviewhandbook.org/algorithms/graph/) | High | 2024-1-- |
-| [Heap](https://www.techinterviewhandbook.org/algorithms/heap/) | Mid | 2024-1-- |
-| [Trie](https://www.techinterviewhandbook.org/algorithms/trie/) | Mid | 2024-1-- |
-| [Interval](https://www.techinterviewhandbook.org/algorithms/interval/) | Mid | 2024-1-- |
+| [Graph](https://www.techinterviewhandbook.org/algorithms/graph/) | High | 2024-1-10 |
+| [Heap](https://www.techinterviewhandbook.org/algorithms/heap/) | Mid | 2024-1-10 |
+| [Trie](https://www.techinterviewhandbook.org/algorithms/trie/) | Mid | 2024-1-10 |
+| [Interval](https://www.techinterviewhandbook.org/algorithms/interval/) | Mid | 2024-1-10 |
 | [Dynamic programing](https://www.techinterviewhandbook.org/algorithms/dynamic-programming/) | Low | 2024-1-- |
 | [Binary](https://www.techinterviewhandbook.org/algorithms/binary/) | Low | 2024-1-- |
 | [Math](https://www.techinterviewhandbook.org/algorithms/math/) | Low | 2024-1-- |
