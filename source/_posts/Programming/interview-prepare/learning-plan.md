@@ -50,7 +50,7 @@ According to the Breadth-First preparation, I will roughly go through all the to
 | Problem | Difficulty | Finished Date | 
 | :-: | :-: | :-: |
 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | Easy | 2024-1-10 |
-| [Valid Parentheses](https://www.techinterviewhandbook.org/algorithms/string/) | Easy | 2024-1-- |
+| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | Easy | 2024-1-11 |
 | [Merge Two Sorted Lists](https://www.techinterviewhandbook.org/algorithms/hash-table/) | Easy | 2024-1-- |
 | [Best Time to Buy and Sell Stock](https://www.techinterviewhandbook.org/algorithms/recursion/) | Easy | 2024-1-- |
 | [Sorting and searching](https://www.techinterviewhandbook.org/algorithms/sorting-searching/) | Easy | 2024-1-- |
