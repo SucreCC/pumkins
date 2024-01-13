@@ -47,7 +47,7 @@ According to the Breadth-First preparation, I will roughly go through all the to
 [Practice Plan](https://www.techinterviewhandbook.org/grind75), expect 4 weeks and 8 hours per week.
 
 
-| Problem | Difficulty | Finished Date | 
+| Problem | Difficulty | First Time | 
 | :-: | :-: | :-: |
 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | Easy | 2024-1-10 |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | Easy | 2024-1-11 |
