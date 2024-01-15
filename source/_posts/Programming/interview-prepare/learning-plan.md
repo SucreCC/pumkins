@@ -54,7 +54,7 @@ According to the Breadth-First preparation, I will roughly go through all the to
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | Easy | 2024-1-12 |
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | Easy | 2024-1-13 |
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | Easy | 2024-1-14 |
-| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Easy | 2024-1-- |
+| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Easy | 2024-1-15 |
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | 2024-1-- |
 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | 2024-1-- |
 
