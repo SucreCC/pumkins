@@ -55,8 +55,13 @@ According to the Breadth-First preparation, I will roughly go through all the to
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | Easy | 2024-1-13 |
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | Easy | 2024-1-14 |
 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Easy | 2024-1-15 |
+| [Flood Fill](https://leetcode.com/problems/flood-fill) | Easy | 2024-1-16 |
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | 2024-1-- |
 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | 2024-1-- |
+| [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | Easy | 2024-1-- |
+| [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | Easy | 2024-1-- |
+| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | 2024-1-- |
+| [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | 2024-1-- |
 
 
 # Plan for Behaviour Questions
