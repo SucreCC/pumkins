@@ -56,7 +56,7 @@ According to the Breadth-First preparation, I will roughly go through all the to
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | Easy | 2024-1-14 |
 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Easy | 2024-1-15 |
 | [Flood Fill](https://leetcode.com/problems/flood-fill) | Easy | 2024-1-16 |
-| [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | 2024-1-- |
+| [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | 2024-1-16 |
 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | 2024-1-- |
 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | Easy | 2024-1-- |
 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | Easy | 2024-1-- |
