@@ -47,21 +47,21 @@ According to the Breadth-First preparation, I will roughly go through all the to
 [Practice Plan](https://www.techinterviewhandbook.org/grind75), expect 4 weeks and 8 hours per week.
 
 
-| Problem | Difficulty | First Time | 
-| :-: | :-: | :-: |
-| [Two Sum](https://leetcode.com/problems/two-sum/description/) | Easy | 2024-1-10 |
-| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | Easy | 2024-1-11 |
-| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | Easy | 2024-1-12 |
-| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | Easy | 2024-1-13 |
-| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | Easy | 2024-1-14 |
-| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Easy | 2024-1-15 |
-| [Flood Fill](https://leetcode.com/problems/flood-fill) | Easy | 2024-1-16 |
-| [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | 2024-1-16 |
-| [Binary Search](https://leetcode.com/problems/binary-search) | Easy | 2024-1-- |
-| [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | Easy | 2024-1-- |
-| [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | Easy | 2024-1-- |
-| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | 2024-1-- |
-| [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | 2024-1-- |
+| Problem | Difficulty | First Time | Second Time | Third Time |
+| :-: | :-: | :-: |  :-: |  :-: |
+| [Two Sum](https://leetcode.com/problems/two-sum/description/) | Easy | 2024-1-10 |2024--|2024--|
+| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | Easy | 2024-1-11 |2024--|2024--|
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | Easy | 2024-1-12 |2024--|2024--|
+| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | Easy | 2024-1-13 |2024--|2024--|
+| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | Easy | 2024-1-14 |2024--|2024--|
+| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Easy | 2024-1-15 |2024--|2024--|
+| [Flood Fill](https://leetcode.com/problems/flood-fill) | Easy | 2024-1-16 |2024--|2024--|
+| [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | 2024-1-16 |2024--|2024--|
+| [Binary Search](https://leetcode.com/problems/binary-search) | Easy | 2024-1-17 |2024--|2024--|
+| [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | Easy | 2024-1-- |2024--|2024--|
+| [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | Easy | 2024-1-- |2024--|2024--|
+| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | 2024-1-- |2024--|2024--|
+| [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | 2024-1-- |2024--|2024--|
 
 
 # Plan for Behaviour Questions
