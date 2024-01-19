@@ -59,7 +59,7 @@ According to the Breadth-First preparation, I will roughly go through all the to
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | 2024-1-16 |2024--|2024--|
 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | 2024-1-17 |2024--|2024--|
 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | Medium | 2024-1-18 |2024--|2024--|
-| [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | Easy | 2024-1-- |2024--|2024--|
+| [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | Easy | 2024-1-19 |2024--|2024--|
 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | 2024-1-- |2024--|2024--|
 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | 2024-1-- |2024--|2024--|
 
