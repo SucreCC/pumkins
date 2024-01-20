@@ -21,6 +21,7 @@ How to install tensorflow in macOS by pip
 # Install
 
 ```` Bash
+
 python3 -m venv tensorflow
 pip install --upgrade pip
 pip install --upgrade tensorflow-cpu
@@ -35,9 +36,10 @@ pip install scipy
 # start and stop
 
 ````bash
+
 source tensorflow/bin/activate 
 
- deactivate
+deactivate
 
 ````
 
@@ -45,6 +47,7 @@ source tensorflow/bin/activate
 # Test tensorflow
 
 ````python
+
 import tensorflow as tf
 print(tf.__version__)
 ````
@@ -52,6 +55,7 @@ print(tf.__version__)
 # Tensorflow dashboard in jupyter notebook
 
 ````python
+
 %load_ext tensorboard
 %tensorboard --logdir logs
 ````
@@ -60,8 +64,8 @@ print(tf.__version__)
 ## Another way to start tensorflow dashboard
 
 ````bash
-source tensorflow/bin/activate 
 
+source tensorflow/bin/activate 
 
 # cd your work directory eg cd /workspace/tensorflow
 tensorboard --logdir ./logs/
