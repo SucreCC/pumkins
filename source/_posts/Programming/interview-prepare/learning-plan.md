@@ -63,6 +63,22 @@ According to the Breadth-First preparation, I will roughly go through all the to
 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | 2024-1-21 |2024--|2024--|
 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | 2024-1-- |2024--|2024--|
 
+| [First Bad Version](https://leetcode.com/problems/first-bad-version) | Easy | 2024-1-- |2024--|2024--|
+
+| [Ransom Note](https://leetcode.com/problems/ransom-note) | Easy | 2024-1-- |2024--|2024--|
+| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | 2024-1-- |2024--|2024--|
+| [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | Easy | 2024-1-- |2024--|2024--|
+| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy | 2024-1-- |2024--|2024--|
+| [Majority Element](https://leetcode.com/problems/majority-element) | Easy | 2024-1-- |2024--|2024--|
+| [Add Binary](https://leetcode.com/problems/add-binary) | Easy | 2024-1-- |2024--|2024--|
+| [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | Easy | 2024-1-- |2024--|2024--|
+| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | 2024-1-- |2024--|2024--|
+| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | 2024-1-- |2024--|2024--|
+| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | 2024-1-- |2024--|2024--|
+| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Medium | 2024-1-- |2024--|2024--|
+| []() | Easy | 2024-1-- |2024--|2024--|
+
+
 
 # Plan for Behaviour Questions
 Company are more like to hire a candidates who pay more attention to teamwork, including caring for colleagues and communicating with colleagues, but not a [selfish jerk](https://www.brendangregg.com/blog/2017-11-13/brilliant-jerks.html).
