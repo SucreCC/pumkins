@@ -1,6 +1,6 @@
 ---
 title: How to install tensorflow
-sticky: true
+sticky: false
 date: 2024-1-20 20:02:00
 layout: categories
 categories:
