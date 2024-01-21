@@ -61,7 +61,7 @@ According to the Breadth-First preparation, I will roughly go through all the to
 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | Medium | 2024-1-18 |2024--|2024--|
 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | Easy | 2024-1-19 |2024--|2024--|
 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | 2024-1-21 |2024--|2024--|
-| [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | 2024-1-- |2024--|2024--|
+| [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | 2024-1-21 |2024--|2024--|
 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | Easy | 2024-1-- |2024--|2024--|
 | [Ransom Note](https://leetcode.com/problems/ransom-note) | Easy | 2024-1-- |2024--|2024--|
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | 2024-1-- |2024--|2024--|
