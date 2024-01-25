@@ -65,7 +65,7 @@ According to the Breadth-First preparation, I will roughly go through all the to
 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | Easy | 2024-1-22 |2024--|2024--|
 | [Ransom Note](https://leetcode.com/problems/ransom-note) | Easy | 2024-1-23 |2024--|2024--|
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | 2024-1-24 |2024--|2024--|
-| [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | Easy | 2024-1-- |2024--|2024--|
+| [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | Easy | 2024-1-25 |2024--|2024--|
 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy | 2024-1-- |2024--|2024--|
 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy | 2024-1-- |2024--|2024--|
 | [Add Binary](https://leetcode.com/problems/add-binary) | Easy | 2024-1-- |2024--|2024--|
