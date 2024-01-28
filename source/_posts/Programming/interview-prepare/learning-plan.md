@@ -74,8 +74,58 @@ According to the Breadth-First preparation, I will roughly go through all the to
 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | 2024-1-- |2024--|2024--|
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | 2024-1-- |2024--|2024--|
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Medium | 2024-1-- |2024--|2024--|
+| [Insert Interval](https://leetcode.com/problems/insert-interval) | Medium | 2024-1-- |2024--|2024--|
+| [01 Matrix](https://leetcode.com/problems/01-matrix) | Medium | 2024-1-- |2024--|2024--|
+| [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | Medium | 2024-1-- |2024--|2024--|
+| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Medium | 2024-2-- |2024--|2024--|
+| [3Sum](https://leetcode.com/problems/3sum) | Medium | 2024-2-- |2024--|2024--|
+| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | Medium | 2024-2-- |2024--|2024--|
+| [Clone Graph](https://leetcode.com/problems/clone-graph) | Medium | 2024-2-- |2024--|2024--|
+| [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | Medium | 2024-2-- |2024--|2024--|
+| [Course Schedule](https://leetcode.com/problems/course-schedule) | Medium | 2024-2-- |2024--|2024--|
+| [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | Medium | 2024-2-- |2024--|2024--|
+| [Coin Change](https://leetcode.com/problems/coin-change) | Medium | 2024-2-- |2024--|2024--|
+| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Medium | 2024-2-- |2024--|2024--|
+| [Min Stack](https://leetcode.com/problems/min-stack) | Medium | 2024-2-- |2024--|2024--|
+| [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | Medium | 2024-2-- |2024--|2024--|
+| [Number of Islands](https://leetcode.com/problems/number-of-islands) | Medium | 2024-2-- |2024--|2024--|
+| [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | Medium | 2024-2-- |2024--|2024--|
+| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Medium | 2024-2-- |2024--|2024--|
+| [Combination Sum](https://leetcode.com/problems/combination-sum) | Medium | 2024-2-- |2024--|2024--|
+| [Permutations](https://leetcode.com/problems/permutations) | Medium | 2024-2-- |2024--|2024--|
+| [Merge Intervals](https://leetcode.com/problems/merge-intervals) | Medium | 2024-2-- |2024--|2024--|
+| [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | Medium | 2024-2-- |2024--|2024--|
+| [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store) | Medium | 2024-2-- |2024--|2024--|
+| [Accounts Merge](https://leetcode.com/problems/accounts-merge) | Medium | 2024-2-- |2024--|2024--|
+| [Sort Colors](https://leetcode.com/problems/sort-colors) | Medium | 2024-2-- |2024--|2024--|
+| [Word Break](https://leetcode.com/problems/word-break) | Medium | 2024-2-- |2024--|2024--|
+| [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | Medium | 2024-2-- |2024--|2024--|
+| [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | Medium | 2024-2-- |2024--|2024--|
+| [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | Medium | 2024-2-- |2024--|2024--|
+| [Subsets](https://leetcode.com/problems/subsets) | Medium | 2024-2-- |2024--|2024--|
+| [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | Medium | 2024-2-- |2024--|2024--|
+| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | Medium | 2024-2-- |2024--|2024--|
+| [Unique Paths](https://leetcode.com/problems/unique-paths) | Medium | 2024-2-- |2024--|2024--|
+| [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | Medium | 2024-2-- |2024--|2024--|
+| [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | Medium | 2024-2-- |2024--|2024--|
+| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | Medium | 2024-2-- |2024--|2024--|
+| [Word Search](https://leetcode.com/problems/word-search) | Medium | 2024-2-- |2024--|2024--|
+| [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) | Medium | 2024-2-- |2024--|2024--|
+| [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees) | Medium | 2024-2-- |2024--|2024--|
+| [Task Scheduler](https://leetcode.com/problems/task-scheduler) | Medium | 2024-2-- |2024--|2024--|
+| [LRU Cache](https://leetcode.com/problems/lru-cache) | Medium | 2024-2-- |2024--|2024--|
+| [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | Medium | 2024-2-- |2024--|2024--|
+| [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | Hard | 2024-2-- |2024--|2024--|
+| [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | Hard | 2024-2-- |2024--|2024--|
+| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | Hard | 2024-2-- |2024--|2024--|
+| [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | Hard | 2024-2-- |2024--|2024--|
+| [Word Ladder](https://leetcode.com/problems/word-ladder) | Hard | 2024-2-- |2024--|2024--|
+| [Basic Calculator](https://leetcode.com/problems/basic-calculator) | Hard | 2024-2-- |2024--|2024--|
+| [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling) | Hard | 2024-2-- |2024--|2024--|
+| [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | Hard | 2024-2-- |2024--|2024--|
+| [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | Hard | 2024-2-- |2024--|2024--|
+| []() | Hard | 2024-2-- |2024--|2024--|
 
-| []() | Easy | 2024-1-- |2024--|2024--|
 
 
 
