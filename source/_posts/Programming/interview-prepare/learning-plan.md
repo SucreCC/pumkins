@@ -1,5 +1,5 @@
 ---
-title: Longterm Plan
+title: Long Term Plan
 sticky: true
 date: 2024-1-03 08:26:00
 layout: categories
