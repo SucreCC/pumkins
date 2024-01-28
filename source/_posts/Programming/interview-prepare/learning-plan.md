@@ -1,5 +1,5 @@
 ---
-title: Interview Study Plan
+title: Longterm Plan
 sticky: true
 date: 2024-1-03 08:26:00
 layout: categories
@@ -70,7 +70,7 @@ According to the Breadth-First preparation, I will roughly go through all the to
 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy | 2024-1-25 |2024--|2024--|
 | [Add Binary](https://leetcode.com/problems/add-binary) | Easy | 2024-1-26 |2024--|2024--|
 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | Easy | 2024-1-27 |2024--|2024--|
-| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | 2024-1-- |2024--|2024--|
+| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | 2024-1-28 |2024--|2024--|
 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | 2024-1-- |2024--|2024--|
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | 2024-1-- |2024--|2024--|
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Medium | 2024-1-- |2024--|2024--|
