@@ -16,9 +16,7 @@ tags:
 Travel plans.
 
 
-# Plan for Datastructures and Algorithms
-
-According to the Breadth-First preparation, I will roughly go through all the topics and then start practice them via LeetCode.
+# Plan for travel
 
 ## Around Cork
 | Address | Mode | Date | Link | Description |
