@@ -27,6 +27,7 @@ Using for record the paper I have read.
 | Deep Residual Learning for Image Recognition | He Kaiming | 2015 | All | 2024-3-10 | A residual networks were introduced to solve the problem of vanishing or exploding gradients, allowing us to add more weight layers|
 | Going Deeper with Convolutions | Szegedy Christian | 2014 | All | 2024-3-12 | Introduce an inception module which can stack these convolution operations of different scales and utilize parallel convolution to capture multi-scale features|
 | Rethinking the Inception Architecture for Computer Vision | Szegedy Christian | 2015 | All | 2024-3-14 | More exploration on inception module in Neural Networks Architecture side|
+| Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning | Szegedy Christian | 2016 | All | 2024-3-14 | More exploration on inception module with ResNet|
 
 
 | Name | Author | Year | Reading Style | Date | Description |
