@@ -31,8 +31,4 @@ Using for record the paper I have read.
 | Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift | Szegedy Christian | 2015 | All | 2024-3-17 | Do some research on Batch Normalization|
 
 
-| Name | Author | Year | Reading Style | Date | Description |
-
-
-
 
