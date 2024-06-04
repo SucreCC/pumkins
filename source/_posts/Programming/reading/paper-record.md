@@ -32,6 +32,7 @@ Using for record the paper I have read.
 | Aggregated Residual Transformations for Deep Neural Networks | Saining Xie | 2017 | All | 2024-3-19 | Explore extend the width of ResNet but performs not well|
 | Densely Connected Convolutional Networks | Huang Gao | 2017 | All | 2024-3-21 | Introduces direct connections between any two layers with the same feature-map size and perform better than ResNet with less parameters|
 | Fast R-CNN | Girshick Ross | 2015 | All | 2024-3-21 | Introduce R - CNN for object detect|
+| UNSUPERVISED CROSS-DOMAIN IMAGE GENERATION | Yaniv Taigman | 2017 | All | 2024-6-5 | Image Translation|
 
 
 
