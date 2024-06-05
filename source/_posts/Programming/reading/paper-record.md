@@ -41,7 +41,7 @@ Using for record the paper I have read.
 | Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks | Jun-Yan Zhu | 2020 | All | 2024-5-28| Cycle GAN|
 | Progressive Growing of GANs for Improved Quality, Stability, and Variation | Tero Karras | 2017 | All | 2024-5-30| Progressive GAN|
 | LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS | Andrew Brock | 2019 | All | 2024-6-1| Large Scale GAN|
-| UNSUPERVISED CROSS-DOMAIN IMAGE GENERATION | Yaniv Taigman | 2017 | All | 2024-6-5 | Image Translation|
+| UNSUPERVISED CROSS-DOMAIN IMAGE GENERATION | Yaniv Taigman | 2017 | All | 2024-6-5 | Transfer image from domain A to B|
 
 
 
