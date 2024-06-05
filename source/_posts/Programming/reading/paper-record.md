@@ -32,6 +32,15 @@ Using for record the paper I have read.
 | Aggregated Residual Transformations for Deep Neural Networks | Saining Xie | 2017 | All | 2024-3-19 | Explore extend the width of ResNet but performs not well|
 | Densely Connected Convolutional Networks | Huang Gao | 2017 | All | 2024-3-21 | Introduces direct connections between any two layers with the same feature-map size and perform better than ResNet with less parameters|
 | Fast R-CNN | Girshick Ross | 2015 | All | 2024-3-21 | Introduce R - CNN for object detect|
+| Generative Adversarial Nets | Ian J. Goodfellow | 2014 | All | 2024-5-16 | Introduction of Generative Adversarial Networks|
+| UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS | Alec Radford & Luke Metz |2016 | All | 2024-5-18 | Deep Convolutional GAN|
+| Conditional Generative Adversarial Nets | Mehdi Mirza | 2015 | All | 2024-5-20| Conditional GAN|
+| StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks | Han Zhang | 2016 | All | 2024-5-22| Stack GAN|
+| Improved Techniques for Training GANs | Tim Salimans | 2016 | All | 2024-5-24| Introduce some technique help GAN model converge|
+| A Style-Based Generator Architecture for Generative Adversarial Networks | Tero Karras | 2019 | All | 2024-5-26| style GAN|
+| Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks | Jun-Yan Zhu | 2020 | All | 2024-5-28| Cycle GAN|
+| Progressive Growing of GANs for Improved Quality, Stability, and Variation | Tero Karras | 2017 | All | 2024-5-30| Progressive GAN|
+| LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS | Andrew Brock | 2019 | All | 2024-6-1| Large Scale GAN|
 | UNSUPERVISED CROSS-DOMAIN IMAGE GENERATION | Yaniv Taigman | 2017 | All | 2024-6-5 | Image Translation|
 
 
