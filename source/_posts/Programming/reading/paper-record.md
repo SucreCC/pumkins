@@ -42,6 +42,7 @@ Using for record the paper I have read.
 | Progressive Growing of GANs for Improved Quality, Stability, and Variation | Tero Karras | 2017 | All | 2024-5-30| Progressive GAN|
 | LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS | Andrew Brock | 2019 | All | 2024-6-1| Large Scale GAN|
 | UNSUPERVISED CROSS-DOMAIN IMAGE GENERATION | Yaniv Taigman | 2017 | All | 2024-6-5 | Transfer image from domain A to B|
+| Learning to Discover Cross-Domain Relations with Generative Adversarial Networks | Taeksoo Kim | 2017 | All | 2024-6-6 | Finding a mapping function from one domain to the other|
 
 
 
