@@ -44,6 +44,7 @@ Using for record the paper I have read.
 | UNSUPERVISED CROSS-DOMAIN IMAGE GENERATION | Yaniv Taigman | 2017 | All | 2024-6-5 | Transfer image from domain A to B|
 | Learning to Discover Cross-Domain Relations with Generative Adversarial Networks | Taeksoo Kim | 2017 | All | 2024-6-6 | Finding a mapping function from one domain to the other|
 | Coupled Generative Adversarial Networks | Ming-Yu Liu | 2016 | All | 2024-6-9 | CoGAN can learn a joint distribution without any tuple of corresponding images|
+| Multimodal Unsupervised Image-to-Image Translation | Xun Huang | 2018 | All | 2024-6-13 | AC-GAN: every generated sample has a corresponding class label |
 
 
 
