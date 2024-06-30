@@ -25,5 +25,4 @@ Notes for leetcode
 String s = "abcde";
 List<Character> sl = s.chars().mapToObj(c -> (char) c)
   .collect(Collectors.toList());
-
 ````
