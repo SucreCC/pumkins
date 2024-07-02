@@ -18,7 +18,7 @@ Notes for leetcode
 <!-- more -->
 
 # Arrays
-## String to list
+## String
 
 ```` Java
 
@@ -26,3 +26,35 @@ String s = "abcde";
 List<Character> sl = s.chars().mapToObj(c -> (char) c)
   .collect(Collectors.toList());
 ````
+
+
+
+## Tree
+
+```` Java
+
+class Solution {
+
+    int d = 0;
+    public int diameterOfBinaryTree(TreeNode root) {
+        longestLength(root);
+        return d;
+    }
+
+    private int longestLength(TreeNode node){
+
+        if(node == null){
+            return 0;
+        }
+
+        int left = longestLength(node.left);
+        int right = longestLength(node.right);
+
+        d = d > left+right? d : left + right;
+        return (left>right? left:right) + 1;
+    }
+}
+````
+
+
+
