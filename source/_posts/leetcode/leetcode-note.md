@@ -17,8 +17,8 @@ Notes for leetcode
 
 <!-- more -->
 
-# Arrays
-## String
+## Arrays
+### String
 
 ```` Java
 
@@ -30,6 +30,8 @@ List<Character> sl = s.chars().mapToObj(c -> (char) c)
 
 
 ## Tree
+
+### Diameter of tree
 
 ```` Java
 
