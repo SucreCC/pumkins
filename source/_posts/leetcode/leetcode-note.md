@@ -31,6 +31,25 @@ List<Character> sl = s.chars().mapToObj(c -> (char) c)
 
 ## Tree
 
+### Maximum deep of tree
+
+```` Java
+
+class Solution {
+    public int maxDepth(TreeNode root) {
+        if(root == null){
+            return 0;
+        }
+
+        int left = maxDepth(root.left);
+        int right = maxDepth(root.right);
+
+        return (left>right? left : right) + 1;
+    }
+}
+````
+
+
 ### Diameter of tree
 
 ```` Java
