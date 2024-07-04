@@ -1,7 +1,7 @@
 ---
 title: CICD pipeline
 sticky: true
-date: 2024-6-29 10:16:00
+date: 2024-7-4 10:16:00
 layout: categories
 categories:
 - [Blog]
